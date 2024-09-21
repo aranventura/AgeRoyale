@@ -1,0 +1,7 @@
+{
+	"port": 3306,
+	"ip": "localhost",
+	"name": "age_royaledb",
+	"user": "admin",
+	"password": "age_royale"
+}
